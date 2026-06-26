@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A sleek, modern, and highly interactive Calculator app with premium Material 3 styling, history, and scientific functions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
